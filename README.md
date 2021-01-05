@@ -2,7 +2,8 @@
 
          Description:
          
-                  A model program for Kernel Density Compression Algorithm. Which is usful to comprerss the given Gaussians.
+                  A model program for Kernel Density Compression Algorithm. 
+                  Which is usful to comprerss the given Gaussians.
                   
                   
          Authour: Anji Babu Kapakayala
